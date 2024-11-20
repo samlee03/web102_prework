@@ -77,3 +77,8 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+/* Additional Hover Effects */
+.stats-card:hover {
+    color: darkblue;
+}
